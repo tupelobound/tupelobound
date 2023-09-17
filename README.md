@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I used to live and work in China**
 
+- :musical_note: My profile name takes inspiration from a song by one of my favourite artists, **Nick Cave and the Bad Seeds**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/tupelobound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tupelobound" height="30" width="40" /></a>
