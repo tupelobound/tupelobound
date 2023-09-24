@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tupelobound&label=Profile%20views&color=0e75b6&style=flat" alt="tupelobound" /> </p>
 
-- 🔭 I’m currently working on [a clone of a Pinterest data pipeline](https://github.com/tupelobound/pinterest-data-pipeline)
+- 🔭 I’m currently working on updating the documentation for my React projects
 
-- 🌱 I’m currently learning **Apache Spark, pySpark**
+- 🌱 I’m currently learning how to engineer prompts for ChatGPT and ethically integrate use of AI into my coding workflow
 
 - 👨‍💻 All of my projects are available at [https://github.com/tupelobound](https://github.com/tupelobound)
 
