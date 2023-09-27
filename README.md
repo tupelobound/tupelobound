@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on updating the documentation for my React projects
 
-- 🌱 I’m currently learning how to engineer prompts for ChatGPT and ethically integrate use of AI into my coding workflow
+- 🌱 I’m currently learning more about ChatGPT, and how it can (ethically) improve productivity
 
 - 👨‍💻 All of my projects are available at [https://github.com/tupelobound](https://github.com/tupelobound)
 
