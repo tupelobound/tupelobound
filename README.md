@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tupelobound&label=Profile%20views&color=0e75b6&style=flat" alt="tupelobound" /> </p>
 
-- 🔭 I’m currently working on updating the documentation for my React projects
-
-- 🌱 I’m currently learning more about ChatGPT, and how it can (ethically) improve productivity
-
-- 👨‍💻 All of my projects are available at [https://github.com/tupelobound](https://github.com/tupelobound)
+- 🌱 I’m currently improving my SQL skills in my quest for SQL mastery
 
 - ⚡ Fun fact **I used to live and work in China**
 
