@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tupelobound&label=Profile%20views&color=0e75b6&style=flat" alt="tupelobound" /> </p>
 
+In recent years I've developed a strong passion for all things data and for building things with code. I love losing myself in a coding challenge and get a real buzz out of solving problems and seeing things work. I'm very eager to contribute my curiosity, enthusiasm and expertise to the field of data engineering.
+
 - 🌱 I’m currently improving my SQL skills in my quest for SQL mastery
 
 - ⚡ Fun fact **I used to live and work in China**
